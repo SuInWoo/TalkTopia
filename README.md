@@ -41,13 +41,6 @@ BE
 | Lombok | 1.18.24 |
 | websocket | 2.7.2 |
 
-
-### 설치
-```
-$ git clone https://lab.ssafy.com/s09-webmobile1-sub2/S09P12B204.git
-$ cd S09P12B204
-```
-
 #### 백엔드
 ```
 $ cd BE/Talktopia/talktopia
