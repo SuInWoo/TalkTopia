@@ -6,7 +6,7 @@
 
 |![팀장](https://secure.gravatar.com/avatar/4d5b40714cbd62edcde8c9b9f1ad2069?s=80&d=identicon)|![정재욱](https://secure.gravatar.com/avatar/9169f2910f62eee22e3523b967c4488a?s=80&d=identicon)|![이진서](https://secure.gravatar.com/avatar/45843f55cd93f74403a407c238c58f0b?s=80&d=identicon)|![김나연](https://secure.gravatar.com/avatar/64d908094f43b3fb9b889ddb71289c03?s=80&d=identicon)|![김준석](https://secure.gravatar.com/avatar/d763275dc5f853e080a72c06853ebddd?s=80&d=identicon)|
 |-|-|-|-|-|
-|팀장 우수인 BE<br>@wbo1026<hr>PM, 발표|팀원 정재욱 BE<br>@wodnr8462<hr>|팀원 이진서 BE<br>@lalaququ<hr>STT, 채팅|팀원 김나연 FE<br>@nayeon0016|팀원 김준석 FE<br>@pepaa15<hr>|
+|팀장 우수인 BE<br>@wbo1026<hr>|팀원 정재욱 BE<br>@wodnr8462<hr>|팀원 이진서 BE<br>@lalaququ<hr>|팀원 김나연 FE<br>@nayeon0016|팀원 김준석 FE<br>@pepaa15<hr>|
 
 ## 프로젝트 소개
 
