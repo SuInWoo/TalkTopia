@@ -162,7 +162,7 @@ $ npm run start
 ## 아키텍쳐
 
 ### FLOW
-![FLOW](./PJT_flow.png)
+![FLOW](./PJT_flow.PNG)
 
 ### ERD
 ![ERD](./ERD.png)
